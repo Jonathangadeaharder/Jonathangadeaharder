@@ -20,5 +20,3 @@ lead with numbers, not adjectives.
 
 **Infrastructure**
 - [runner-infra](https://github.com/Jonathangadeaharder/runner-infra) — self-hosted GitHub Actions runner fleet: launchd plists, bootstrap, health monitoring.
-
-**Research** — Lean 4 mechanization of evolutionary-algorithm runtime analysis (formal proofs; private, available on request).
